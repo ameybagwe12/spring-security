@@ -1,4 +1,4 @@
-package com.amey.spring_security;
+package com.amey.spring_security.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
